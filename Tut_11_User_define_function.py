@@ -1,4 +1,3 @@
-
 # function are block of code which do a specific task
 # it improves readability and performance of our code and avoid repetition of code.
 def greetHello(name):    # Parameters of our function
