@@ -6,6 +6,8 @@ t1.count(3)
 t1.index(45)
 len(t1)
 
+
+# Changing indirectlt in tuples.
 countries = ("Spain", "Italy", "India", "England", "Germany")
 temp = list(countries)
 temp.append("Russia")       #add item
